@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8eca69f201aee5545813e72c53a5f885
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 90
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames:
+  - Coffee 2
+  customCharacters: 
+  fontRenderingMode: 0
+  userData: 

@@ -1,0 +1,92 @@
+fileFormatVersion: 2
+guid: ff446ea248bf9e446914579f0ed49483
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cube
+    100002: //RootNode
+    100004: Toilet_FlusherHandle
+    100006: Toilet_Seat
+    100008: Toilet_01
+    100010: Toilet_water
+    400000: Cube
+    400002: //RootNode
+    400004: Toilet_FlusherHandle
+    400006: Toilet_Seat
+    400008: Toilet_01
+    400010: Toilet_water
+    2300000: Cube
+    2300002: Toilet_FlusherHandle
+    2300004: Toilet_Seat
+    2300006: Toilet_01
+    2300008: Toilet_water
+    3300000: Cube
+    3300002: Toilet_FlusherHandle
+    3300004: Toilet_Seat
+    3300006: Toilet_01
+    3300008: Toilet_water
+    4300000: Toilet_Seat
+    4300002: Toilet_FlusherHandle
+    4300004: Cube
+    4300006: Toilet_01
+    4300008: Toilet_water
+    6400000: Cube
+    6400002: Toilet_FlusherHandle
+    6400004: Toilet_Seat
+    6400006: Toilet_01
+    6400008: Toilet_water
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 3
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

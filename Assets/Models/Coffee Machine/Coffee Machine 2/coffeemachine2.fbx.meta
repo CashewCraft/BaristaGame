@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: b8ca2fd375d487c428b8c0ff7e90e498
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: coffe
+    100002: Coffee Plate
+    100004: //RootNode
+    100006: Cappuccino_Button
+    100008: Cream_Button
+    100010: Latte_Button
+    100012: Mocha_Button
+    100014: CappuccinoButton_Eject
+    100016: LatteButton_Eject
+    100018: MochaButton_Eject
+    100020: CappuccinoTube_Mount
+    100022: LatteTube_Mount
+    100024: MochaTube_Mount
+    400000: coffe
+    400002: Coffee Plate
+    400004: //RootNode
+    400006: Cappuccino_Button
+    400008: Cream_Button
+    400010: Latte_Button
+    400012: Mocha_Button
+    400014: CappuccinoButton_Eject
+    400016: LatteButton_Eject
+    400018: MochaButton_Eject
+    400020: CappuccinoTube_Mount
+    400022: LatteTube_Mount
+    400024: MochaTube_Mount
+    2300000: coffe
+    2300002: Coffee Plate
+    2300004: Cappuccino_Button
+    2300006: Cream_Button
+    2300008: Latte_Button
+    2300010: Mocha_Button
+    2300012: CappuccinoButton_Eject
+    2300014: LatteButton_Eject
+    2300016: MochaButton_Eject
+    2300018: CappuccinoTube_Mount
+    2300020: LatteTube_Mount
+    2300022: MochaTube_Mount
+    3300000: coffe
+    3300002: Coffee Plate
+    3300004: Cappuccino_Button
+    3300006: Cream_Button
+    3300008: Latte_Button
+    3300010: Mocha_Button
+    3300012: CappuccinoButton_Eject
+    3300014: LatteButton_Eject
+    3300016: MochaButton_Eject
+    3300018: CappuccinoTube_Mount
+    3300020: LatteTube_Mount
+    3300022: MochaTube_Mount
+    4300000: Coffee Plate
+    4300002: coffe
+    4300004: Cream_Button
+    4300006: Mocha_Button
+    4300008: Cappuccino_Button
+    4300010: Latte_Button
+    4300012: MochaButton_Eject
+    4300014: CappuccinoButton_Eject
+    4300016: LatteButton_Eject
+    4300018: MochaTube_Mount
+    4300020: CappuccinoTube_Mount
+    4300022: LatteTube_Mount
+    6400000: coffe
+    6400002: Coffee Plate
+    6400004: Cappuccino_Button
+    6400006: Cream_Button
+    6400008: Latte_Button
+    6400010: Mocha_Button
+    6400012: CappuccinoButton_Eject
+    6400014: LatteButton_Eject
+    6400016: MochaButton_Eject
+    6400018: CappuccinoTube_Mount
+    6400020: LatteTube_Mount
+    6400022: MochaTube_Mount
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .300000012
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

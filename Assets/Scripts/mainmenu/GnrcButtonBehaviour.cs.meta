@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f4f8677c97590b49bdd155246f2c013
+timeCreated: 1445767120
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hover: {fileID: 8300000, guid: faf500a7a40141e4c9198af5de91a2c8, type: 3}
+  - select: {fileID: 8300000, guid: d7bdbfae307ac6d49bfbd281f6e55be3, type: 3}
+  - eventSystem: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 5522f965a1ba29b418126d586d20fdf5
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CoffeeTrailer_GroundShadow
+    100004: Cube
+    100006: CoffeeTrailer_MilkCrate
+    100008: CoffeeTrailer_Wall
+    100010: CoffeeTrailer_GroundShadow.001
+    100012: Ventialtion_Base
+    100014: Ventilator_fan
+    400000: //RootNode
+    400002: CoffeeTrailer_GroundShadow
+    400004: Cube
+    400006: CoffeeTrailer_MilkCrate
+    400008: CoffeeTrailer_Wall
+    400010: CoffeeTrailer_GroundShadow.001
+    400012: Ventialtion_Base
+    400014: Ventilator_fan
+    2300000: //RootNode
+    2300002: CoffeeTrailer_GroundShadow
+    2300004: Cube
+    2300006: CoffeeTrailer_MilkCrate
+    2300008: CoffeeTrailer_Wall
+    2300010: CoffeeTrailer_GroundShadow.001
+    2300012: Ventialtion_Base
+    2300014: Ventilator_fan
+    3300000: //RootNode
+    3300002: CoffeeTrailer_GroundShadow
+    3300004: Cube
+    3300006: CoffeeTrailer_MilkCrate
+    3300008: CoffeeTrailer_Wall
+    3300010: CoffeeTrailer_GroundShadow.001
+    3300012: Ventialtion_Base
+    3300014: Ventilator_fan
+    4300000: Cube
+    4300002: CoffeeTrailer_GroundShadow
+    4300004: CoffeeTrailer_MilkCrate
+    4300006: CoffeeTrailer_Wall
+    4300008: CoffeeTrailer_GroundShadow.001
+    4300010: Ventilator_fan
+    4300012: Ventialtion_Base
+    6400000: //RootNode
+    6400002: CoffeeTrailer_GroundShadow
+    6400004: Cube
+    6400006: CoffeeTrailer_MilkCrate
+    6400008: CoffeeTrailer_Wall
+    6400010: CoffeeTrailer_GroundShadow.001
+    6400012: Ventialtion_Base
+    6400014: Ventilator_fan
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0149999997
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

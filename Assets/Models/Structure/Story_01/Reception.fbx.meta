@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 97876ec65c8db914aa72f21ecf5ff80a
+timeCreated: 1445369428
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: keypad_btn_1
+    100002: keypad_btn_2
+    100004: keypad_btn_3
+    100006: keypad_btn_4
+    100008: keypad_btn_5
+    100010: keypad_btn_6
+    100012: keypad_btn_6.001
+    100014: keypad_btn_7
+    100016: keypad_btn_8
+    100018: pCube40
+    100020: //RootNode
+    100022: reception_chair_03
+    100024: reception_chair_03.001
+    100026: reception_chair_03.002
+    100028: reception_coffeetable
+    100030: reception_computer
+    100032: reception_desk
+    100034: reception_potplamt_01
+    100036: reception_skirt
+    100038: reception_vender
+    100040: reception_vender_plug
+    400000: keypad_btn_1
+    400002: keypad_btn_2
+    400004: keypad_btn_3
+    400006: keypad_btn_4
+    400008: keypad_btn_5
+    400010: keypad_btn_6
+    400012: keypad_btn_6.001
+    400014: keypad_btn_7
+    400016: keypad_btn_8
+    400018: pCube40
+    400020: //RootNode
+    400022: reception_chair_03
+    400024: reception_chair_03.001
+    400026: reception_chair_03.002
+    400028: reception_coffeetable
+    400030: reception_computer
+    400032: reception_desk
+    400034: reception_potplamt_01
+    400036: reception_skirt
+    400038: reception_vender
+    400040: reception_vender_plug
+    2300000: keypad_btn_1
+    2300002: keypad_btn_2
+    2300004: keypad_btn_3
+    2300006: keypad_btn_4
+    2300008: keypad_btn_5
+    2300010: keypad_btn_6
+    2300012: keypad_btn_6.001
+    2300014: keypad_btn_7
+    2300016: keypad_btn_8
+    2300018: pCube40
+    2300020: reception_chair_03
+    2300022: reception_chair_03.001
+    2300024: reception_chair_03.002
+    2300026: reception_coffeetable
+    2300028: reception_computer
+    2300030: reception_desk
+    2300032: reception_potplamt_01
+    2300034: reception_skirt
+    2300036: reception_vender
+    2300038: reception_vender_plug
+    3300000: keypad_btn_1
+    3300002: keypad_btn_2
+    3300004: keypad_btn_3
+    3300006: keypad_btn_4
+    3300008: keypad_btn_5
+    3300010: keypad_btn_6
+    3300012: keypad_btn_6.001
+    3300014: keypad_btn_7
+    3300016: keypad_btn_8
+    3300018: pCube40
+    3300020: reception_chair_03
+    3300022: reception_chair_03.001
+    3300024: reception_chair_03.002
+    3300026: reception_coffeetable
+    3300028: reception_computer
+    3300030: reception_desk
+    3300032: reception_potplamt_01
+    3300034: reception_skirt
+    3300036: reception_vender
+    3300038: reception_vender_plug
+    4300000: reception_chair_03.002
+    4300002: reception_chair_03.001
+    4300004: reception_desk
+    4300006: reception_chair_03
+    4300008: reception_vender_plug
+    4300010: reception_skirt
+    4300012: reception_vender
+    4300014: pCube40
+    4300016: keypad_btn_6
+    4300018: keypad_btn_6.001
+    4300020: keypad_btn_5
+    4300022: keypad_btn_1
+    4300024: keypad_btn_4
+    4300026: keypad_btn_7
+    4300028: keypad_btn_2
+    4300030: keypad_btn_8
+    4300032: keypad_btn_3
+    4300034: reception_potplamt_01
+    4300036: reception_coffeetable
+    4300038: reception_computer
+    6400000: keypad_btn_1
+    6400002: keypad_btn_2
+    6400004: keypad_btn_3
+    6400006: keypad_btn_4
+    6400008: keypad_btn_5
+    6400010: keypad_btn_6
+    6400012: keypad_btn_6.001
+    6400014: keypad_btn_7
+    6400016: keypad_btn_8
+    6400018: pCube40
+    6400020: reception_chair_03
+    6400022: reception_chair_03.001
+    6400024: reception_chair_03.002
+    6400026: reception_coffeetable
+    6400028: reception_computer
+    6400030: reception_desk
+    6400032: reception_potplamt_01
+    6400034: reception_skirt
+    6400036: reception_vender
+    6400038: reception_vender_plug
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.75
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

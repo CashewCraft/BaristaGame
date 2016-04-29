@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f2dcc33dd3398654cb2ad9aa56a639db
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BellSound: {fileID: 8300000, guid: f2033933d80d07a44a78274adfe615e1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
